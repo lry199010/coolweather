@@ -1,6 +1,5 @@
-package model;
+package com.coolweather.app.model;
 
-import android.R.integer;
 
 public class Province {
 	private int id;

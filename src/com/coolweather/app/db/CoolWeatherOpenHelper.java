@@ -1,4 +1,4 @@
-package db;
+package com.coolweather.app.db;
 
 import android.R.integer;
 import android.content.Context;

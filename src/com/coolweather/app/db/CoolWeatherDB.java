@@ -1,15 +1,17 @@
-package db;
+package com.coolweather.app.db;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.coolweather.app.model.City;
+import com.coolweather.app.model.County;
+import com.coolweather.app.model.Province;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import model.City;
-import model.County;
-import model.Province;
+
 
 public class CoolWeatherDB {
 	/** * Êý¾Ý¿âÃû */
